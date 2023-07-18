@@ -4,6 +4,10 @@ All notable changes to the "uazgradcoll-developer-pack" extension pack will be d
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.0.4] - 2023-07-18
+
+- Add publisher "uazgraduatecollege" to manifest
+
 ## [0.0.2] - 2023-07-18
 
 - Rename: "uazgradcoll-developer-pack"

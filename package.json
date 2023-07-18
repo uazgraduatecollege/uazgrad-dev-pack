@@ -2,7 +2,8 @@
   "name": "uazgradcoll-developer-pack",
   "displayName": "UArizona Grad College VS Code Extension Pack",
   "description": "Basic VS Code extensions to support UA Grad College WebOps",
-  "version": "0.0.2",
+  "version": "0.0.3",
+  "publisher": "uazgraduatecollege",
   "engines": {
     "vscode": "^1.80.0"
   },
