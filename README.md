@@ -1,5 +1,7 @@
 # UArizona Grad College VS Code Extension Pack - README
 
+## About
+
 This extension pack installs:
 
 - [Cucumber](https://marketplace.visualstudio.com/items?itemName=CucumberOpen.cucumber-official)
@@ -15,4 +17,12 @@ Not installed, but recommended:
 - [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf)
 - [VIM](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
 
+## Installation
+
+1. Clone this repository locally. Checkout the most recent tag (recommended but optional).
+2. Install the VS Code Extension Manager: `npm install --global vsce`
+3. Generate the vsix package: `cd /path/to/uazgrad-dev-pack && vsce package`
+4. Open VS Code -> Extensions and choose **Install from VSIX**
+
 **Enjoy!**
+
