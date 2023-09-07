@@ -24,5 +24,12 @@ Not installed, but recommended:
 3. Generate the vsix package: `cd /path/to/uazgrad-dev-pack && vsce package`
 4. Open VS Code -> Extensions and choose **Install from VSIX**
 
+## Other Considerations
+
+For CakePHP projects, we generally use the following PHP_CodeSniffer settings:
+
+- PHP Code Sniffer Standard: `PSR12`
+- PHP Code Sniffer-> Exec: Linux (or Osx): `./vendor/bin/phpcs`
+
 **Enjoy!**
 
